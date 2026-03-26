@@ -1,0 +1,6 @@
+# UPI Payment Fraud Case Study
+UPI (Unified Payments Interface) fraud is one of the most common cybercrimes affecting students and young users in India. It usually occurs when attackers trick users into sharing sensitive information or approving fraudulent payment requests.
+In a typical scenario, a student receives a call or message from someone pretending to be a bank representative or an online seller. The fraudster claims that the user needs to “verify” their account or receive a refund. The attacker then sends a UPI collect request and instructs the user to approve it, claiming it is required to receive money. In reality, approving the request transfers money from the victim’s account to the attacker. In some cases, fake links or apps are used to steal login credentials.
+Students, online shoppers, and people unfamiliar with digital payment systems are the most common targets. The consequences include financial loss, stress, and sometimes misuse of personal information for further fraud.
+This type of fraud highlights the importance of awareness and careful handling of digital transactions. Understanding how UPI works and avoiding sharing confidential information can significantly reduce the risk of such attacks.
+
