@@ -15,7 +15,7 @@ This project focuses on developing digital awareness and practical skills in are
 
 Student Details
 
-Name: Aryan
+Name: Aryan Gupta
 
 Registration Number: 25BAI11516
 
